@@ -9,7 +9,7 @@ header{
     display: flex;
     justify-content: space-around;
     border-radius: 50px;
-    background-color: #3200a8;
+    background-color: rgba(50, 0, 168, 0.4);
     margin: 1rem 5rem;
     align-items: center;
     padding: 20px;
